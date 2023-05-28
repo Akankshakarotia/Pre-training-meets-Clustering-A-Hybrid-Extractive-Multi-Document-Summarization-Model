@@ -2,5 +2,6 @@
 In this era where a large amount of information has flooded the Internet, manual extraction and consumption of relevant information is very difficult and time-consuming. Therefore, an automated document summarization tool is necessary to excerpt important information from a set of documents that have similar or re-lated subjects. Multi-document summarization allows retrieval of important and relevant content from multiple documents while minimizing redundancy. A multi-document text summarization system is developed in this study using an unsu-pervised extractive-based approach. The proposed model is a fusion of two learn-ing paradigms: - the T5 pre-trained transformer model and the K-Means cluster-ing algorithm. We perform the experiments on the benchmark news article corpus Document Understanding Conference (DUC2004). The ROUGE evaluation met-rics were used to estimate the performance of the proposed approach on the DUC2004. 
 
 
-**Citation**
+#**Citation:**
+
 Karotia, A., Susan, S. (2023). Pre-training Meets Clustering: A Hybrid Extractive Multi-document Summarization Model. In: Abraham, A., Hong, TP., Kotecha, K., Ma, K., Manghirmalani Mishra, P., Gandhi, N. (eds) Hybrid Intelligent Systems. HIS 2022. Lecture Notes in Networks and Systems, vol 647. Springer, Cham. https://doi.org/10.1007/978-3-031-27409-1_48
